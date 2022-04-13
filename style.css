@@ -1,13 +1,18 @@
 body{
     background: lightcoral;
 }
+
+.calculator{
+    max-width: 600px;
+    margin-inline: auto;
+}
 #output{
-    width: auto;
+    /* width: 328px; */
     height: 150px;
     background: black;
     
 }
-#button-container{
+.button-container{
     display: flex;
     flex-wrap: wrap;
 }
