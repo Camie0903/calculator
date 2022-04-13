@@ -1,0 +1,18 @@
+body{
+    background: lightcoral;
+}
+#output{
+    width: auto;
+    height: 150px;
+    background: black;
+    
+}
+#button-container{
+    display: flex;
+    flex-wrap: wrap;
+}
+.button{
+    width: 25%;
+    aspect-ratio: 1;
+    font-size: large;
+}
