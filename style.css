@@ -9,7 +9,8 @@ body{
 #output{
     /* width: 328px; */
     height: 150px;
-    background: black;
+    background: white;
+    
     
 }
 .button-container{
